@@ -13,7 +13,7 @@
 3. Ein wenig Story
   - Mehr als Leitfaden
 4. Tageswechsel und Jahreszeiten
-  - Frühling, Sommer,m Herbst, Winter
+  - Frühling, Sommer, Herbst, Winter
   - Einfluß auf fangbare Monster, Wetterwahrscheinlichkeiten, Anbau
 5. Herstellung
   - Herstellung von Kampfitems, Rüstungen und Tränken
@@ -23,7 +23,7 @@
   - lvl der Base => cap für lvl der Monster
 
 ## Technische Details
-- [ ] Language
+- [ ] Programmiersprache
 - [ ] Framework
-- [ ] Platform
-- [ ] Pixelart
+- [ ] Plattform
+- [ ] Design
